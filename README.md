@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 📦 Proyecto Cazuela - Documentación Completa
 
 ## 📑 Índice
