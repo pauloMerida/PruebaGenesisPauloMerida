@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\data\\cazueladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\data\\cazueladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\endpoints\\atributosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\atributosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\endpoints\\combosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\combosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\endpoints\\dashboardendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\dashboardendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\endpoints\\llmendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\llmendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\endpoints\\movimientosinventarioendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\movimientosinventarioendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\endpoints\\productoatributosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\productoatributosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\models\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\models\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:13:39.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComboItem.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Models\\ComboItem.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\ComboItem.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Models\\ComboItem.cs",
+              "RelativeToolTip": "Backend\\Models\\ComboItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:13:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Models\\Combo.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Combo.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Models\\Combo.cs",
+              "RelativeToolTip": "Backend\\Models\\Combo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:13:26.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoAtributosEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\ProductoAtributosEndpoints.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\ProductoAtributosEndpoints.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\ProductoAtributosEndpoints.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\ProductoAtributosEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:13:17.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimientosInventarioEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\MovimientosInventarioEndpoints.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\MovimientosInventarioEndpoints.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\MovimientosInventarioEndpoints.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\MovimientosInventarioEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:13:14.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LLMEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\LLMEndpoints.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\LLMEndpoints.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\LLMEndpoints.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\LLMEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:12:39.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\DashboardEndpoints.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\DashboardEndpoints.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\DashboardEndpoints.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\DashboardEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:12:23.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CombosEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\CombosEndpoints.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\CombosEndpoints.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\CombosEndpoints.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\CombosEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:12:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtributosEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\AtributosEndpoints.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\AtributosEndpoints.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\AtributosEndpoints.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\AtributosEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:12:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CazuelaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Data\\CazuelaDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\CazuelaDbContext.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Data\\CazuelaDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\CazuelaDbContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:11:29.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\endpoints\\productosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\endpoints\\productosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|c:\\users\\paulo\\documents\\genesis\\backend\\backend\\data\\cazueladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9191547E-6FCC-4F34-9AD7-EF4B50A31790}|Backend\\Backend.csproj|solutionrelative:backend\\data\\cazueladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CazuelaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Data\\CazuelaDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\CazuelaDbContext.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Data\\CazuelaDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\CazuelaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:25:15.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\ProductosEndpoints.cs",
+              "RelativeDocumentMoniker": "Backend\\Endpoints\\ProductosEndpoints.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Endpoints\\ProductosEndpoints.cs",
+              "RelativeToolTip": "Backend\\Endpoints\\ProductosEndpoints.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:16:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Models\\Producto.cs",
+              "RelativeToolTip": "Backend\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:16:13.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Genesis\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:14:26.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
